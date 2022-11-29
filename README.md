@@ -18,3 +18,11 @@ Create a Dashboard to depit the relevant insights
 **#Dashboard**
 
 ![Atliq Grand Introduction](https://user-images.githubusercontent.com/110961685/204450241-f26977f6-c9d5-49ca-b8bd-18bd4e9769f1.PNG)
+
+
+![Atliq Grand 1](https://user-images.githubusercontent.com/110961685/204450360-4cefd63d-5eaf-4a72-b21b-2f9c6852fbc4.PNG)
+
+
+
+**#Key Insights**
+
