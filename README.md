@@ -9,3 +9,7 @@ Their revenue management team had decided to hire a 3rd party service provider t
 
 **#Task**
 Create a Dashboard to depit the relevant insights
+
+**#Data Model**
+
+![Atliq Grand Data Model](https://user-images.githubusercontent.com/110961685/204450021-a29a2291-b8cd-408f-b655-7982b3126c4b.PNG)
