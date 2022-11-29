@@ -13,3 +13,8 @@ Create a Dashboard to depit the relevant insights
 **#Data Model**
 
 ![Atliq Grand Data Model](https://user-images.githubusercontent.com/110961685/204450021-a29a2291-b8cd-408f-b655-7982b3126c4b.PNG)
+
+
+**#Dashboard**
+
+![Atliq Grand Introduction](https://user-images.githubusercontent.com/110961685/204450241-f26977f6-c9d5-49ca-b8bd-18bd4e9769f1.PNG)
