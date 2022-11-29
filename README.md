@@ -29,12 +29,20 @@ Create a Dashboard to depit the relevant insights
 Delhi has the highest occupancy % and rating
 
 Mumbai earns the most revenue.
+
 Mumbai hosts the most guests compared to other city
+
 The room type which is most preferred by the guest is Elite.
+
 The property which generates the maximum revenue is Altiq Exotica.
+
 The maximum revenue is generated in the month of May.
+
 Luzury category rooms/suites are preferred by the guests over the Business category rooms.
-Atliq Blu has the highest occupancy rate,
+
+Atliq Blu has the highest occupancy rate.
+
 Most of the guest prefer a one day stay at the hotels.
+
 The maximum number of bookings are done through misllaneous or other platforms. Direct offline mode of booking is preferred the least .
 
